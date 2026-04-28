@@ -2,6 +2,7 @@
 - Website: [ゆいのページ](https://yuino.dev/)
 - Blog: [ゆいブログ](https://yuino.dev/blog)
 - サイトリポジトリ: [yuino_dev](https://github.com/Yuki-Yui/yuino_dev)
+  - 公開版: [Yuino.dev-Public](https://github.com/Yuki-Yui/Yuino.dev-Public)
 
 ## Chrome拡張機能
 - GoogleClassroom: [Classroom-Mod](https://github.com/Yuki-Yui/Classroom-Mod)
