@@ -4,13 +4,16 @@
 - サイトリポジトリ: [yuino_dev](https://github.com/Yuki-Yui/yuino_dev)
   - 公開版: [Yuino.dev-Public](https://github.com/Yuki-Yui/Yuino.dev-Public)
 
-## Chrome拡張機能
-- GoogleClassroom: [Classroom-Mod](https://github.com/Yuki-Yui/Classroom-Mod)
-- 学務情報システム: [GakumuJouhouSystem-DefaultSelect
-](https://github.com/Yuki-Yui/GakumuJouhouSystem-DefaultSelect)
-
 ## 工研
 - Web: [www.koken.club.uec.ac.jp](https://github.com/ueckoken/www.koken.club.uec.ac.jp)
+
+## 製作物
+- クレーンゲーム: [YuinoCraneGame](https://github.com/DG-7D/YuinoCraneGame)
+- [FreeHandMouse](https://github.com/orgs/FreeHandMouse/repositories)
+
+### Chrome拡張機能
+- GoogleClassroom: [Classroom-Mod](https://github.com/Yuki-Yui/Classroom-Mod)
+- 学務情報システム: [GakumuJouhouSystem-DefaultSelect](https://github.com/Yuki-Yui/GakumuJouhouSystem-DefaultSelect)
 
 ## いろいろ
 - [Bambu](https://github.com/Yuki-Yui/Bambu)
