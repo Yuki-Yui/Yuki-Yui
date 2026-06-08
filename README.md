@@ -8,6 +8,7 @@
 - Web: [www.koken.club.uec.ac.jp](https://github.com/ueckoken/www.koken.club.uec.ac.jp)
 
 ## 製作物
+- 作品集: [作品集 - ゆいのページ](https://yuino.dev/works/)
 - クレーンゲーム: [YuinoCraneGame](https://github.com/DG-7D/YuinoCraneGame)
 - [FreeHandMouse](https://github.com/orgs/FreeHandMouse/repositories)
 
